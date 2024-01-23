@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Classes_Assignment\Classes_Assignment\bin\Debug\Classes_Assignment.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Classes_Assignment\Classes_Assignment\bin\Debug\Classes_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Classes_Assignment\Classes_Assignment\bin\Debug\Classes_Assignment.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Classes_Assignment\Classes_Assignment\obj\Debug\Classes_Assignment.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Classes_Assignment\Classes_Assignment\obj\Debug\Classes_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Classes_Assignment\Classes_Assignment\obj\Debug\Classes_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Classes_Assignment\Classes_Assignment\obj\Debug\Classes_Assignment.pdb

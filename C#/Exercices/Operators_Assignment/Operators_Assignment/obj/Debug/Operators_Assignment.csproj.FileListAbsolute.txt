@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Operators_Assignment\Operators_Assignment\bin\Debug\Operators_Assignment.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Operators_Assignment\Operators_Assignment\bin\Debug\Operators_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Operators_Assignment\Operators_Assignment\bin\Debug\Operators_Assignment.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Operators_Assignment\Operators_Assignment\obj\Debug\Operators_Assignment.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Operators_Assignment\Operators_Assignment\obj\Debug\Operators_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Operators_Assignment\Operators_Assignment\obj\Debug\Operators_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Operators_Assignment\Operators_Assignment\obj\Debug\Operators_Assignment.pdb

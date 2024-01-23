@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Iterations\Iterations\obj\Debug\Iterations.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Iterations\Iterations\obj\Debug\Iterations.pdb

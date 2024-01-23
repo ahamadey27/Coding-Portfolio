@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MiscProjects\MiscProjects\bin\Debug\MiscProjects.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MiscProjects\MiscProjects\bin\Debug\MiscProjects.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MiscProjects\MiscProjects\bin\Debug\MiscProjects.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MiscProjects\MiscProjects\obj\Debug\MiscProjects.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MiscProjects\MiscProjects\obj\Debug\MiscProjects.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MiscProjects\MiscProjects\obj\Debug\MiscProjects.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MiscProjects\MiscProjects\obj\Debug\MiscProjects.pdb

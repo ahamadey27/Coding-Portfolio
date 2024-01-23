@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Paramaters_Assignment\Paramaters_Assignment\bin\Debug\Paramaters_Assignment.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Paramaters_Assignment\Paramaters_Assignment\bin\Debug\Paramaters_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Paramaters_Assignment\Paramaters_Assignment\bin\Debug\Paramaters_Assignment.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Paramaters_Assignment\Paramaters_Assignment\obj\Debug\Paramaters_Assignment.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Paramaters_Assignment\Paramaters_Assignment\obj\Debug\Paramaters_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Paramaters_Assignment\Paramaters_Assignment\obj\Debug\Paramaters_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Paramaters_Assignment\Paramaters_Assignment\obj\Debug\Paramaters_Assignment.pdb

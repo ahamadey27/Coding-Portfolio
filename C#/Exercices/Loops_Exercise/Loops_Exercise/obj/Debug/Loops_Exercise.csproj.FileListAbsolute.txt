@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Loops_Exercise\Loops_Exercise\bin\Debug\Loops_Exercise.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Loops_Exercise\Loops_Exercise\bin\Debug\Loops_Exercise.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Loops_Exercise\Loops_Exercise\bin\Debug\Loops_Exercise.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Loops_Exercise\Loops_Exercise\obj\Debug\Loops_Exercise.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Loops_Exercise\Loops_Exercise\obj\Debug\Loops_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Loops_Exercise\Loops_Exercise\obj\Debug\Loops_Exercise.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Loops_Exercise\Loops_Exercise\obj\Debug\Loops_Exercise.pdb

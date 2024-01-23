@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\DAILY_REPORT_ASSIGNMENT\bin\Debug\DAILY_REPORT_ASSIGNMENT.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\DAILY_REPORT_ASSIGNMENT\bin\Debug\DAILY_REPORT_ASSIGNMENT.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\DAILY_REPORT_ASSIGNMENT\bin\Debug\DAILY_REPORT_ASSIGNMENT.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\DAILY_REPORT_ASSIGNMENT\obj\Debug\DAILY_REPORT_ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\DAILY_REPORT_ASSIGNMENT\obj\Debug\DAILY_REPORT_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\DAILY_REPORT_ASSIGNMENT\obj\Debug\DAILY_REPORT_ASSIGNMENT.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\DAILY_REPORT_ASSIGNMENT\obj\Debug\DAILY_REPORT_ASSIGNMENT.pdb

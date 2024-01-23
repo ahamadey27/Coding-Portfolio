@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Input_IO_Assignment\Input_IO_Assignment\bin\Debug\Input_IO_Assignment.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Input_IO_Assignment\Input_IO_Assignment\bin\Debug\Input_IO_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Input_IO_Assignment\Input_IO_Assignment\bin\Debug\Input_IO_Assignment.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Input_IO_Assignment\Input_IO_Assignment\obj\Debug\Input_IO_Assignment.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Input_IO_Assignment\Input_IO_Assignment\obj\Debug\Input_IO_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Input_IO_Assignment\Input_IO_Assignment\obj\Debug\Input_IO_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\Input_IO_Assignment\Input_IO_Assignment\obj\Debug\Input_IO_Assignment.pdb

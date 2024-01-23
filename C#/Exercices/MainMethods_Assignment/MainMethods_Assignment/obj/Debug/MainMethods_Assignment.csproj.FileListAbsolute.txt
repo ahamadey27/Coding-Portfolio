@@ -1,0 +1,7 @@
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MainMethods_Assignment\MainMethods_Assignment\bin\Debug\MainMethods_Assignment.exe.config
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MainMethods_Assignment\MainMethods_Assignment\bin\Debug\MainMethods_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MainMethods_Assignment\MainMethods_Assignment\bin\Debug\MainMethods_Assignment.pdb
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MainMethods_Assignment\MainMethods_Assignment\obj\Debug\MainMethods_Assignment.csproj.AssemblyReference.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MainMethods_Assignment\MainMethods_Assignment\obj\Debug\MainMethods_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MainMethods_Assignment\MainMethods_Assignment\obj\Debug\MainMethods_Assignment.exe
+C:\Users\hamad\Documents\GitHub\CSharpAndUnity\Basic_C#_Programs\MainMethods_Assignment\MainMethods_Assignment\obj\Debug\MainMethods_Assignment.pdb
