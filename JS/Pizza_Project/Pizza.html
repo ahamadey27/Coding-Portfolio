@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hammer's Pizza</title>
+        <META HTTP-EQUIV="Content-Type" Content="text/html"; charset="UTF-8">
+        <meta content="width=device-width,initial-scale=1.0" name="viewport">
+        <script src="./Pizza_JavaScript/Pizza.js"  defer></script>
+        <link rel="stylesheet" type="text/css" href="./Pizza_CSS/Pizza.css"/> 
+    </head>
+
+    <body>
+        <script>
+            //for fade in effect
+            document.body.classList.add('fade-out');
+            window.addEventListener('DOMContentLoaded', () => {
+                    document.body.classList.remove('fade-out');
+                });
+        </script>
+        
+        <div id="menuBG">
+            <h1 style="margin:0 0px 0 20px;">Hammer's Pizza Slices</h1>
+            <input id="btnOrder" type="button" onclick="getReceipt()" value="Place Order"> 
+            <form id="frmMenu">
+                <div class="menu left">
+                    <h3>Size:</h3>
+                    <input class="size" type="radio" name="Size" 
+                        value="Slice">Slice<br>
+                    <input class="size" type="radio" name="Size"
+                        value="Personal Pizza">Personal Pizza<br>
+                    <input class="size" type="radio" name="Size" 
+                        value="Medium Pizza">Medium Pizza<br>
+                    <input class="size" type="radio" name="Size" 
+                        value="Large Pizza">Large Pizza<br>
+                    <input class="size" type="radio" name="Size" 
+                        value="Extra Large Pizza">Extra Large Pizza<br>
+                </div>
+
+                <div class="menu right">
+                    <h3>Meats:</h3>
+                    <input class="toppings" type="checkbox" name="Topping" 
+                        value="Pepperoni">Pepperoni<br>
+                    <input class="toppings" type="checkbox" name="Topping" 
+                        value="Sausage">Sausage<br>
+                    <input class="toppings" type="checkbox" name="Topping" 
+                        value="Canadian Bacon">Canadian Bacon<br>
+                    <input class="toppings" type="checkbox" name="Topping" 
+                        value="Ground Beef">Ground Beef<br>
+                    <input class="toppings" type="checkbox" name="Topping" 
+                        value="Anchovy">Anchovy<br>
+                    <input class="toppings" type="checkbox" name="Topping" 
+                        value="Chicken">Chicken<br>
+                    <input class="toppings" type="checkbox" name="Topping" 
+                        value="Fried Chicken">Fried Chicken<br>
+                </div>
+
+                <div>
+                    <div id="cart">
+                        <div id="showText"></div>
+                        <div id="totalPrice"></div>
+                    </div>
+                </div>
+            </form>
+            <form name="phoneNumber" action="/action_page.php" onsubmit="return validateForm()" method="post">
+                <label for="phone">Phone Number:</label><br>
+                <input type="number" id="phoneNumber" value=""><br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </body>
+</html>

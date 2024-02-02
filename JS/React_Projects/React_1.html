@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Reakt</title>
+    <meta charset="utf-8">
+    <script src = "react.js"></script>
+    <script src = "react-dom.js"></script>
+</head>
+
+<body>  
+    <div id="My_React_Code"></div> 
+    <script>
+        var Counter = React.createClass({
+            render: function() { 
+                var time_Passed = Math.round(this.props.time_Passed / 100);
+                var second_Passed = time_Passed / 10 + (time_Passed % 10 ? '' : '.0');
+                var text = 'My react code started running ' + second_Passed + ' seconds ago!'; 
+                return React.DOM.p(null, text); 
+            }
+        });
+
+        var counter_Factory = React.createFactory(Counter);
+
+        var start_Counting = new Date().getTime(); 
+        setInterval(function() {
+            ReactDOM.render(
+                counter_Factory({time_Passed: new Date().getTime() - start_Counting}),
+                document.getElementById('My_React_Code')
+            ); 
+        }, 50); 
+        /* Some of the code above is React-specific, including:
+        React.createClass – creates component classes
+        ReactDOM.render() – used to render a React Component or Components
+        React.createFactory – a function that generates a factory (object that can create other objects)
+
+        There is also some vanilla JavaScript code we used within this, including:
+        ? – a conditional operator that checks for whether or not a condition is true, the : following it is shorthand for “else”
+        % – finds the remainder
+        setInterval() – a method that evaluates an expression at specified intervals (milliseconds)
+        */
+    </script>
+</body>
+
+</html>
