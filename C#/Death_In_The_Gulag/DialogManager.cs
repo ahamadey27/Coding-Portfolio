@@ -10,11 +10,10 @@ public class DialogManager : MonoBehaviour
     public string[] dialogLines;
     public int currentLine;
     public static DialogManager instance;
+    public bool IsDialogueActive { get; private set; }
 
     // Static variable to track if dialogue is active
     public static bool isDialogueActive;
-
-    private bool justStarted;
 
     // Start is called before the first frame update
     void Start()
@@ -26,48 +25,34 @@ public class DialogManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (dialogBox.activeInHierarchy)
+        if (IsDialogueActive == false)
+            return;
+
+        if (Input.GetButtonDown("Fire1"))
         {
-            PlayerController.instance.canMove = false;  // Disable player movement during dialogue
-
-            if (Input.GetButtonDown("Fire1"))
+            currentLine++;
+            if (currentLine < dialogLines.Length)
             {
-                if (!justStarted)
-                {
-                    if (currentLine < dialogLines.Length - 1)
-                    {
-                        currentLine++;
-                        dialogText.text = dialogLines[currentLine];
-                    }
-                    else
-                    {
-                        // Hide the dialog box when there's no more dialogue
-                        dialogBox.SetActive(false);
-                        PlayerController.instance.canMove = true;  // Re-enable player movement after dialogue ends
-
-                        // Set isDialogueActive to false when dialogue ends
-                        isDialogueActive = false;
-                    }
-                }
-                else
-                {
-                    justStarted = false;
-                }
+                dialogText.text = dialogLines[currentLine];
+            }
+            else
+            {
+                IsDialogueActive = false;
+                dialogBox.SetActive(false);
+                PlayerController.instance.canMove = true;
             }
         }
     }
 
     public void ShowDialog(string[] newLines)
     {
-        dialogLines = newLines;
-        currentLine = 0;
-        dialogText.text = dialogLines[0];
+        IsDialogueActive = true;
         dialogBox.SetActive(true);
-        justStarted = true;
+        PlayerController.instance.canMove = false;
 
-        PlayerController.instance.canMove = false;  // Disable player movement when dialogue starts
+        dialogLines = newLines;
+        currentLine = -1;  // Start at -1 so the first line shown is at index 0
 
-        // Set isDialogueActive to true when dialogue starts
-        isDialogueActive = true;
+        dialogText.text = dialogLines[++currentLine];
     }
 }

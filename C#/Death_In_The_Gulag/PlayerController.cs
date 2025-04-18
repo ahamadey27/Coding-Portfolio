@@ -1,20 +1,18 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-
     public Rigidbody2D theRB;
     public float moveSpeed;
     public Animator myAnim;
     public static PlayerController instance;
     public string areaTransitionName;
-    public bool canMove = true; 
+    public bool canMove = true;
 
     void Start()
     {
-        if(instance == null)
+        if (instance == null)
         {
             instance = this;
         }
@@ -26,31 +24,45 @@ public class PlayerController : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
-   void Update()
-{
-    if (canMove)
+    void Update()
+    {
+        if (!canMove)
+        {
+            StopPlayerMovement();
+            return;
+        }
+
+        HandleMovement();
+    }
+
+    private void HandleMovement()
     {
         Vector2 moveInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         Vector2 moveVelocity = moveInput.normalized * moveSpeed;
 
         theRB.velocity = moveVelocity;
 
-        myAnim.SetFloat("moveX", theRB.velocity.x);
-        myAnim.SetFloat("moveY", theRB.velocity.y);
+        // Update Animation
+        myAnim.SetFloat("moveX", moveVelocity.x);
+        myAnim.SetFloat("moveY", moveVelocity.y);
 
-        if (Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
+        bool isMoving = moveInput != Vector2.zero;
+        myAnim.SetBool("IsMoving", isMoving);
+
+        if (isMoving)
         {
-            myAnim.SetFloat("lastMoveX", Input.GetAxisRaw("Horizontal"));
-            myAnim.SetFloat("lastMoveY", Input.GetAxisRaw("Vertical"));
+            myAnim.SetFloat("lastMoveX", moveInput.x);
+            myAnim.SetFloat("lastMoveY", moveInput.y);
         }
     }
-    else
+
+    private void StopPlayerMovement()
     {
         theRB.velocity = Vector2.zero;
-        myAnim.SetFloat("moveX", 0);   // Ensure player animation is idle
-        myAnim.SetFloat("moveY", 0);   // Ensure player animation is idle
+
+        // Reset animation parameters
+        myAnim.SetFloat("moveX", 0);
+        myAnim.SetFloat("moveY", 0);
+        myAnim.SetBool("IsMoving", false);
     }
-}
-
-
 }
