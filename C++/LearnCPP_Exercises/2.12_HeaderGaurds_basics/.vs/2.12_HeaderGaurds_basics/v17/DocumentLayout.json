@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B05D0D3-D8E0-49E7-A1E5-80E6D56CF8AF}|2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B05D0D3-D8E0-49E7-A1E5-80E6D56CF8AF}|2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics.vcxproj|solutionrelative:2.12_HeaderGaurds_basics\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B05D0D3-D8E0-49E7-A1E5-80E6D56CF8AF}|2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B05D0D3-D8E0-49E7-A1E5-80E6D56CF8AF}|2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics.vcxproj|solutionrelative:2.12_HeaderGaurds_basics\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B05D0D3-D8E0-49E7-A1E5-80E6D56CF8AF}|2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B05D0D3-D8E0-49E7-A1E5-80E6D56CF8AF}|2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics.vcxproj|solutionrelative:2.12_HeaderGaurds_basics\\square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "square.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\square.cpp",
+              "RelativeDocumentMoniker": "2.12_HeaderGaurds_basics\\square.cpp",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\square.cpp",
+              "RelativeToolTip": "2.12_HeaderGaurds_basics\\square.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T22:44:34.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "square.h",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\square.h",
+              "RelativeDocumentMoniker": "2.12_HeaderGaurds_basics\\square.h",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\square.h",
+              "RelativeToolTip": "2.12_HeaderGaurds_basics\\square.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-22T22:34:58.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\Source.cpp",
+              "RelativeDocumentMoniker": "2.12_HeaderGaurds_basics\\Source.cpp",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.12_HeaderGaurds_basics\\2.12_HeaderGaurds_basics\\Source.cpp",
+              "RelativeToolTip": "2.12_HeaderGaurds_basics\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T22:33:40.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

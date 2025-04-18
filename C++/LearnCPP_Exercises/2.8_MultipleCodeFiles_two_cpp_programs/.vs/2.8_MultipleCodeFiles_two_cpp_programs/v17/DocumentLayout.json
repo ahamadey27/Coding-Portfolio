@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.8_MultipleCodeFiles_two_cpp_programs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB021340-5268-438C-97CE-EC35B2E82294}|2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB021340-5268-438C-97CE-EC35B2E82294}|2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs.vcxproj|solutionrelative:2.8_MultipleCodeFiles_two_cpp_programs\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB021340-5268-438C-97CE-EC35B2E82294}|2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB021340-5268-438C-97CE-EC35B2E82294}|2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs.vcxproj|solutionrelative:2.8_MultipleCodeFiles_two_cpp_programs\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs\\Source.cpp",
+              "RelativeDocumentMoniker": "2.8_MultipleCodeFiles_two_cpp_programs\\Source.cpp",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs\\Source.cpp",
+              "RelativeToolTip": "2.8_MultipleCodeFiles_two_cpp_programs\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T16:21:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs\\input.cpp",
+              "RelativeDocumentMoniker": "2.8_MultipleCodeFiles_two_cpp_programs\\input.cpp",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\2.8_MultipleCodeFiles_two_cpp_programs\\2.8_MultipleCodeFiles_two_cpp_programs\\input.cpp",
+              "RelativeToolTip": "2.8_MultipleCodeFiles_two_cpp_programs\\input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T16:16:43.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

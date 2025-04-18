@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.15_StaticVariableExample_exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E685A24-3F56-4441-9E2D-7C38392DEB76}|7.15_StaticVariableExample_exercise\\7.15_StaticVariableExample_exercise.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.15_StaticVariableExample_exercise\\7.15_StaticVariableExample_exercise\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E685A24-3F56-4441-9E2D-7C38392DEB76}|7.15_StaticVariableExample_exercise\\7.15_StaticVariableExample_exercise.vcxproj|solutionrelative:7.15_StaticVariableExample_exercise\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.15_StaticVariableExample_exercise\\7.15_StaticVariableExample_exercise\\Source.cpp",
+              "RelativeDocumentMoniker": "7.15_StaticVariableExample_exercise\\Source.cpp",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.15_StaticVariableExample_exercise\\7.15_StaticVariableExample_exercise\\Source.cpp",
+              "RelativeToolTip": "7.15_StaticVariableExample_exercise\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T23:02:32.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

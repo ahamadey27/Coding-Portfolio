@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{503CE309-7AF8-43E9-8F3D-91011D4F1EFA}|7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{503CE309-7AF8-43E9-8F3D-91011D4F1EFA}|7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex.vcxproj|solutionrelative:7.2_ForwardDeclarationInNamespaces_ex\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503CE309-7AF8-43E9-8F3D-91011D4F1EFA}|7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{503CE309-7AF8-43E9-8F3D-91011D4F1EFA}|7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex.vcxproj|solutionrelative:7.2_ForwardDeclarationInNamespaces_ex\\add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503CE309-7AF8-43E9-8F3D-91011D4F1EFA}|7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex.vcxproj|D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{503CE309-7AF8-43E9-8F3D-91011D4F1EFA}|7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex.vcxproj|solutionrelative:7.2_ForwardDeclarationInNamespaces_ex\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add.h",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\add.h",
+              "RelativeDocumentMoniker": "7.2_ForwardDeclarationInNamespaces_ex\\add.h",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\add.h",
+              "RelativeToolTip": "7.2_ForwardDeclarationInNamespaces_ex\\add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-08T20:51:40.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\add.cpp",
+              "RelativeDocumentMoniker": "7.2_ForwardDeclarationInNamespaces_ex\\add.cpp",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\add.cpp",
+              "RelativeToolTip": "7.2_ForwardDeclarationInNamespaces_ex\\add.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-08T20:51:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\Source.cpp",
+              "RelativeDocumentMoniker": "7.2_ForwardDeclarationInNamespaces_ex\\Source.cpp",
+              "ToolTip": "D:\\Coding_Projects\\C--\\LearnCPP_Exercises\\7.2_ForwardDeclarationInNamespaces_ex\\7.2_ForwardDeclarationInNamespaces_ex\\Source.cpp",
+              "RelativeToolTip": "7.2_ForwardDeclarationInNamespaces_ex\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-08T20:50:29.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
