@@ -1,0 +1,4 @@
+In Python you can do OOP
+In Python you can create classes
+In Python you can import files
+In Python you can create dictionaries 
