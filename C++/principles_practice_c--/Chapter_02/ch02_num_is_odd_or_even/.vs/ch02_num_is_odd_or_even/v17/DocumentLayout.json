@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_02\\ch02_num_is_odd_or_even\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC97BD70-F5FD-4C5A-9794-32251753F514}|ch02_num_is_odd_or_even\\ch02_num_is_odd_or_even.vcxproj|D:\\Coding_Projects\\principles_practice_c--\\Chapter_02\\ch02_num_is_odd_or_even\\ch02_num_is_odd_or_even\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC97BD70-F5FD-4C5A-9794-32251753F514}|ch02_num_is_odd_or_even\\ch02_num_is_odd_or_even.vcxproj|solutionrelative:ch02_num_is_odd_or_even\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_02\\ch02_num_is_odd_or_even\\ch02_num_is_odd_or_even\\Source.cpp",
+              "RelativeDocumentMoniker": "ch02_num_is_odd_or_even\\Source.cpp",
+              "ToolTip": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_02\\ch02_num_is_odd_or_even\\ch02_num_is_odd_or_even\\Source.cpp",
+              "RelativeToolTip": "ch02_num_is_odd_or_even\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:25:55.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

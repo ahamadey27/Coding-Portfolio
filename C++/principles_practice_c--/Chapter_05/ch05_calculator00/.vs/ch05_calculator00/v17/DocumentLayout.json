@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_05\\ch05_calculator00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85BC385-A49F-4D10-9A36-4F1666F3C30F}|ch05_calculator00\\ch05_calculator00.vcxproj|D:\\Coding_Projects\\principles_practice_c--\\Chapter_05\\ch05_calculator00\\ch05_calculator00\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85BC385-A49F-4D10-9A36-4F1666F3C30F}|ch05_calculator00\\ch05_calculator00.vcxproj|solutionrelative:ch05_calculator00\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_05\\ch05_calculator00\\ch05_calculator00\\Source.cpp",
+              "RelativeDocumentMoniker": "ch05_calculator00\\Source.cpp",
+              "ToolTip": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_05\\ch05_calculator00\\ch05_calculator00\\Source.cpp",
+              "RelativeToolTip": "ch05_calculator00\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T20:50:18.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

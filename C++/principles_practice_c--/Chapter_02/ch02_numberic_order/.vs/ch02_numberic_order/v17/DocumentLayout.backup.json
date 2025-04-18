@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_02\\ch02_numberic_order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3199CF62-7570-4B15-AC04-BB867281ED1F}|ch02_numberic_order\\ch02_numberic_order.vcxproj|D:\\Coding_Projects\\principles_practice_c--\\Chapter_02\\ch02_numberic_order\\ch02_numberic_order\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3199CF62-7570-4B15-AC04-BB867281ED1F}|ch02_numberic_order\\ch02_numberic_order.vcxproj|solutionrelative:ch02_numberic_order\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_02\\ch02_numberic_order\\ch02_numberic_order\\Source.cpp",
+              "RelativeDocumentMoniker": "ch02_numberic_order\\Source.cpp",
+              "ToolTip": "D:\\Coding_Projects\\principles_practice_c--\\Chapter_02\\ch02_numberic_order\\ch02_numberic_order\\Source.cpp",
+              "RelativeToolTip": "ch02_numberic_order\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T16:02:29.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

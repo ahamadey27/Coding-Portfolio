@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\Code_Academy_Projects\\Limp_Bizkit_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF39740-629D-4991-B46F-2F7FD1AA1E08}|Limp_Bizkit_Game\\Limp_Bizkit_Game.vcxproj|C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\Code_Academy_Projects\\Limp_Bizkit_Game\\Limp_Bizkit_Game\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF39740-629D-4991-B46F-2F7FD1AA1E08}|Limp_Bizkit_Game\\Limp_Bizkit_Game.vcxproj|solutionrelative:Limp_Bizkit_Game\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\Code_Academy_Projects\\Limp_Bizkit_Game\\Limp_Bizkit_Game\\Source.cpp",
+              "RelativeDocumentMoniker": "Limp_Bizkit_Game\\Source.cpp",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\Code_Academy_Projects\\Limp_Bizkit_Game\\Limp_Bizkit_Game\\Source.cpp",
+              "RelativeToolTip": "Limp_Bizkit_Game\\Source.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T01:22:35.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

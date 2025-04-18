@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Coding_Projects\principles_practice_c--\Chapter_05\ch05_calculator00\ch05_calculator00\Source.cpp(205,1): warning C4715: 'primary': not all control paths return a value
+D:\Coding_Projects\principles_practice_c--\Chapter_05\ch05_calculator00\ch05_calculator00\Source.cpp(16,1): warning C4715: 'get_value': not all control paths return a value
+D:\Coding_Projects\principles_practice_c--\Chapter_05\ch05_calculator00\ch05_calculator00\Source.cpp(167,1): warning C4715: 'Token_stream::get': not all control paths return a value
+  ch05_calculator00.vcxproj -> D:\Coding_Projects\principles_practice_c--\Chapter_05\ch05_calculator00\ch05_calculator00\x64\Debug\ch05_calculator00.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\ch03_drills_exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD3DE31-2849-42D7-9094-55311AC1DDD1}|ch03_drills_exercises\\ch03_drills_exercises.vcxproj|C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\ch03_drills_exercises\\ch03_drills_exercises\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD3DE31-2849-42D7-9094-55311AC1DDD1}|ch03_drills_exercises\\ch03_drills_exercises.vcxproj|solutionrelative:ch03_drills_exercises\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\ch03_drills_exercises\\ch03_drills_exercises\\Source.cpp",
+              "RelativeDocumentMoniker": "ch03_drills_exercises\\Source.cpp",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\principles_practice_c--\\ch03_drills_exercises\\ch03_drills_exercises\\Source.cpp",
+              "RelativeToolTip": "ch03_drills_exercises\\Source.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAJYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-24T19:10:50.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
